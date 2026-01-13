@@ -11,5 +11,6 @@ Awesome list of task chunking tools and products. Divided into those that suppor
 - https://brightmind.club/ BrightMind is an AI voice companion that gets you into flow faster. Eliminate overwhelm and get things done.
 - ~~https://tinyplan.space Tinyplan is free and simple. It uses AI to clear the brain fog, break down tasks, and keep you moving - perfect if you’ve got ADHD or just feel stuck.~~
 - https://www.focusmo.app/ Focusmo is a smart day logger that helps you see where your time went — so you can end your day feeling proud of what you accomplished.
-- https://timtodo.com/ Plan tasks, track time, and stay in sync—without the chaos. A streamlined workspace for individuals and teams who value clarity, speed, and results. 
+- https://timtodo.com/ Plan tasks, track time, and stay in sync—without the chaos. A streamlined workspace for individuals and teams who value clarity, speed, and results.
+- https://doculearnapp.com The all-in-one AI platform that helps teams and professionals organize work, track progress, manage knowledge, and stay productive—without breaking your flow.
 - know of one? PR here https://github.com/lukal-x/awesome-task-chunking-tools/pulls
