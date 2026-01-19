@@ -2,7 +2,7 @@ Awesome list of task chunking tools and products. Divided into those that suppor
 
 ## schema.org Action support
 
-- know of one? PR here https://github.com/lukal-x/awesome-task-chunking-tools/pulls
+- know of one? Fork (https://github.com/lukal-x/awesome-task-chunking-tools/fork) and PR (https://github.com/lukal-x/awesome-task-chunking-tools/pulls) here.
 
 ## without schema.org Action support
 
@@ -14,4 +14,5 @@ Awesome list of task chunking tools and products. Divided into those that suppor
 - https://timtodo.com/ Plan tasks, track time, and stay in sync—without the chaos. A streamlined workspace for individuals and teams who value clarity, speed, and results.
 - https://doculearnapp.com The all-in-one AI platform that helps teams and professionals organize work, track progress, manage knowledge, and stay productive—without breaking your flow.
 - https://goachievo.com/launch/ Track goals where people actually watch you win. Daily check-ins. Public accountability. A feed that only shows progress—no memes, no news, no noise.
-- know of one? PR here https://github.com/lukal-x/awesome-task-chunking-tools/pulls
+- https://tasks.org Open-source To-Do Lists & Reminders
+- know of one? PR (https://github.com/lukal-x/awesome-task-chunking-tools/pulls) here
